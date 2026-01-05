@@ -1,0 +1,8 @@
+
+{
+  "name": "AgroGuard AI",
+  "description": "A comprehensive AI-powered crop health management system providing yield prediction, disease detection, and historical analytics for farmers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
